@@ -1,0 +1,6 @@
+{
+  "name": "백룸: 레벨 0 탈출 (Backrooms: Escape Level 0)",
+  "description": "끝없이 펼쳐진 노란 벽지와 젖은 카펫, 형광등의 웅웅거림 속에서 미지의 존재를 피해 탈출하는 1인칭 백룸 공포 3D 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
